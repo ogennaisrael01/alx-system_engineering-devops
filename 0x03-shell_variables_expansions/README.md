@@ -1,0 +1,1 @@
+readfile for shell scriptng
